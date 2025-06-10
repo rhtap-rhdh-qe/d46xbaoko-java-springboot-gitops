@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: d46xbaoko-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/d46xbaoko-java-springboot-gitops
